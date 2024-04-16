@@ -15,7 +15,7 @@
 **Título:** *Tandemnotas*  
 **Versión:** 1.0.0  
 **Autor(es):** Veronica Huertas  
-**Licencia:** X
+**Licencia:** X   
 ![Tandem](imagen.png)
 ### 2. Descripción general:
 
