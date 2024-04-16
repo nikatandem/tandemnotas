@@ -1,0 +1,40 @@
+.container{
+margin-left: 10%;
+margin-right: 10%;
+margin-top: 5%;
+margin-bottom: 3%;
+border: groove;
+padding: 4em;
+}
+.lista-nota{
+    border-style: solid ;
+    border-color: black;
+    padding: 3em;
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    margin-top: 2em;
+    display: inline-block;
+    text-align: center;
+    
+}
+button{
+    margin-top: 1em;
+    padding: 1em;
+    background-color: azure;
+    border-radius: 50%;
+    font-size: medium;
+}
+button:hover{
+    background-color: royalblue;
+    color:white;
+}
+.nota{
+height: 150px;
+width: 250px;
+border: solid .5px;
+background-color: rgba(237, 237, 231, 0.549);
+}
+h1{
+    text-align: center;
+}
